@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Notes {
+public class Notes {
 	public static void main(String[] args) {
 
 		//input
@@ -27,8 +27,8 @@ class Notes {
 		//clear the scanner;
 		//nextInt, nextDouble, nextBoolean (ANYTHING BUT NEXTLINE)
 		//clear the scanner using nextLine();
-		// int a = s.nextInt();
-		// s.nextLine(); //clears the scanner;
+		int a = s.nextInt();
+		s.nextLine(); //clears the scanner;
 
 		//prompt
 
