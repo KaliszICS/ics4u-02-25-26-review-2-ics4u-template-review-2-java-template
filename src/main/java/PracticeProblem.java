@@ -63,7 +63,7 @@ public class PracticeProblem {
 		  java.util.Scanner s = new java.util.Scanner(System.in);
         System.out.print("In: ");
         boolean myboo = s.nextBoolean();
-        System.out.println(myboo + "is a boolean");
+        System.out.println(myboo + " is a boolean");
         s.close();
 
 	}
@@ -74,7 +74,7 @@ public class PracticeProblem {
         java.util.Scanner s = new java.util.Scanner(System.in);
         System.out.print("In: ");
         double number4 = s.nextDouble();
-        System.out.println(number4 / -3.2);
+        System.out.println(number4 - 3.2);
         s.close();
 
 	}
